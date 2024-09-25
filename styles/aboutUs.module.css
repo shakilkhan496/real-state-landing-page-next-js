@@ -1,0 +1,14 @@
+/* .swiper {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @apply h-64 p-7;
+  } */
+
+.swiper-slideCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @apply my-12 mx-4 w-[410px] lg:w-[450px] lg:px-0;
+}
